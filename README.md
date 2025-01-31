@@ -13,8 +13,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-2D1C45?style=for-the-badge&logo=MySQL)
 
 
-
-
-
-Activity
-
+### Activity
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaloqa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
