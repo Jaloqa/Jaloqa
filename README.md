@@ -15,7 +15,7 @@ Hey there! 👋 I'm a **curious problem solver** and **tech enthusiast** driven 
 ### 📊 My GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaloqa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jaloqa's GitHub Stats" />
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jaloqa?theme=transparent)](https://leetcode.com/jaloqa)
+
 
 ---
 
